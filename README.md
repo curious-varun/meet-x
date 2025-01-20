@@ -4,7 +4,6 @@ A modern real-time chat application with video calling capabilities. Built with 
 
 ## Overview
 
-#### deployment link:  [https://peertalk-66wr.onrender.com](https://peertalk-66wr.onrender.com)
 
 ### Architecture
 
